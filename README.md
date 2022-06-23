@@ -17,3 +17,5 @@ yarn dev
 ## Take a look
 
 [Gif-App Link](https://verdant-strudel-2e7a5c.netlify.app/)
+
+[Installation and configuration of Jest + React Testing Library](https://gist.github.com/GOJAx64/38a7dbea046d5c88d72f75095a4fb879)
