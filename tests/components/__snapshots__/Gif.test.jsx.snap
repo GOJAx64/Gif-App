@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Tests in <Gif /> should match with the snapshot 1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <img
+      alt="zelda"
+      src="https://zelda.com/link.jpg"
+    />
+    <p>
+      zelda
+    </p>
+  </div>
+</div>
+`;
